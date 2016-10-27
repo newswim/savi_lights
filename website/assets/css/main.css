@@ -3368,7 +3368,7 @@
 			-webkit-pointer-events: none;
 			-ms-pointer-events: none;
 			pointer-events: none;
-			background-color: #1d1d2a;
+			background-color: rgba(71, 156, 207, 0.36);
 			content: '';
 			display: block;
 			height: 100%;
@@ -3382,6 +3382,7 @@
 
 		#banner h1 {
 			font-size: 3.25em;
+			background-color: rgba(180,100,200,.4);
 		}
 
 		#banner > .inner {
@@ -3453,7 +3454,7 @@
 		}
 
 		#banner.style2:after {
-			background-color: #8d82c4;
+			background-color: rgba(151, 113, 168, 0.38);
 		}
 
 		#banner.style3:after {
